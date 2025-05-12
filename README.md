@@ -36,6 +36,8 @@
   
 3.在[mapshaper](https://mapshaper.org/)中导入文件，并转换为topojson格式，导出备用。
 
+也可使用Node.js的方法，详见https://github.com/mbloch/mapshaper
+
 三、topojson的网络地址
 
 为了在Power BI中实现地图的调用，需要把topojson文件存储在网络环境中，如GitHub/SharePoint等等，此处采用的是GitHub。
